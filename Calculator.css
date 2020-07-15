@@ -1,0 +1,16 @@
+.container {
+    padding: 60px;
+}
+.zero {
+    background-color: #b5b3b3;
+}
+.color1 {
+    background-color: #35383a;
+    color: rgb(230, 218, 218);
+    border: 1px solid black;
+}
+.color2 {
+    background-color: rgba(247, 167, 20, 0.89);
+    border: 1px solid black;
+    color: rgb(230, 218, 218);
+}
